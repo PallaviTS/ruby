@@ -1,4 +1,7 @@
-ruby
+RUBY PROGRAMMING <3
 ====
+My space to ramble.
 
-Ruby Programming 
+To execute and see the output of any of the ruby code just type
+ruby <filename>
+in terminal.
